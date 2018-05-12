@@ -1,0 +1,25 @@
+_repo: The-Empire-MakersA-Romance-of-Adventure-and-War-in-South-Africa_40838
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Nesbit, Hume
+    gutenberg_agent_id: '40846'
+    url: http://www.gutenberg.org/2009/agents/40846
+description: ''
+gutenberg_issued: '2012-09-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40838'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'South African War, 1899-1902 -- Fiction'
+- !lcc 'PR'
+- !lcsh 'British -- Africa -- Fiction'
+title: 'The Empire Makers: A Romance of Adventure and War in South Africa'
+url: http://www.gutenberg.org/ebooks/40838
